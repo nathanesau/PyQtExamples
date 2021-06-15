@@ -1,0 +1,2 @@
+# PyQtExamples
+Examples for PyQt
